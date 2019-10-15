@@ -30,7 +30,7 @@ Your challenge is to code up (in your language of choice) a basic function that 
 
 
 ### 2. Bug Ticket Filing
-Now, assume you are testing the batteries and throttles described above and enconter a bug where every time you set the throttle to a level ending in 3 (e.g. 3, 13, 23, 53, 103, etc.), the amount of power returned by the battery is 30 watts. This is obviously problematic, since moving from a throttle level of, say, 50 mph to 55 mph should translate to a steady increase in power from the battery and smooth acceleration, but instead it results in a temporary drop in power and speed, causing the car to "buck". 
+Now, assume you are testing the batteries and throttles described above and encounter a bug where every time you set the throttle to a level ending in 3 (e.g. 3, 13, 23, 53, 103, etc.), the amount of power returned by the battery is 30 watts. This is obviously problematic, since moving from a throttle level of, say, 50 mph to 55 mph should translate to a steady increase in power from the battery and smooth acceleration, but instead it results in a temporary drop in power and speed, causing the car to "buck". 
 
 Your challenge is to file a Bug Ticket describing the behavior, your associated testing, and any details you think are sufficient for other testers and engineers to understand the problem and to inform subsequent investigation and, hopefully, resolution of this dangerous defect.
 
